@@ -75,18 +75,12 @@
 
 </p>
 
----
+----
 
-## 📊 **My GitHub Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Sosa&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
----
 
 ## 🤝 **Conecta conmigo**
 <p align="left">
-<a href="https://www.linkedin.com/in/nelsonsosa-97895b2a6/" target="blank">
+<a href="https://www.linkedin.com/in/nelson-sosa-b9b901398/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
